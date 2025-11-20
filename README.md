@@ -4,16 +4,20 @@ The goal is to design a clean blog page using semantic HTML tags.
 
 TASK REQUIREMENTS
 Create a single HTML file for a blog post
-Include:
-Title
-Publication date
-Author name
-Introduction section
-Main content section with a list
-Conclusion section
-At least one image
-A "Read More" link
-Use proper semantic tags like <article>, <section>, <header>, <footer>, and <figure>
+Includes
+->Title
+->Publication date
+->Author name
+->Introduction section
+->Main content section with a list
+->Conclusion section
+->At least one image
+->A "Read More" link
+->Use proper semantic tags like
+<article>,
+  <section>,
+    <header>,
+      <footer>, and <figure>
 
 WHAT THIS PROJECT CONTAINS
 index.html – the main blog post file created using semantic HTML
