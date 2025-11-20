@@ -21,3 +21,7 @@ Basic styling inside the HTML (optional to separate later)
 
 TECHNOLOGIES USED
 HTML5
+
+PRODUCT IMAGE
+![PRODUCT IMAGE](LAYOUT.PNG)
+
