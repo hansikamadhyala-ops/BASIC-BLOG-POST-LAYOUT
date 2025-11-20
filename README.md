@@ -13,11 +13,6 @@ Includes
 ->Conclusion section
 ->At least one image
 ->A "Read More" link
-->Use proper semantic tags like
-<article>,
-  <section>,
-    <header>,
-      <footer>, and <figure>
 
 WHAT THIS PROJECT CONTAINS
 index.html – the main blog post file created using semantic HTML
